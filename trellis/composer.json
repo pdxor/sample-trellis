@@ -1,0 +1,12 @@
+{
+    "repositories":[
+        {
+            "type":"composer",
+            "url":"https://wpackagist.org"
+        }
+    ],
+    "require": {
+        "wpackagist-plugin/disable-comments":"dev-trunk",
+        "wpackagist-plugin/wordpress-seo":"dev-trunk"
+    }
+}
